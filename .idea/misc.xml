@@ -6,9 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/spark-preparse-etl/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/weblog-preparser/pom.xml" />
         <option value="$PROJECT_DIR$/tracker-logServer/pom.xml" />
         <option value="$PROJECT_DIR$/backend/pom.xml" />
-        <option value="$PROJECT_DIR$/frontend/pom.xml" />
       </list>
     </option>
   </component>
